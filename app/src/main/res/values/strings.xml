@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Github Repo Search</string>
+    <string name="repo_name">Repo name</string>
+</resources>
